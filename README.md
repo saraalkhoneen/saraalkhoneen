@@ -35,6 +35,9 @@
  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="30" height="30"/>
 </a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/cprogramming/cprogramming-icon.svg" alt="C" width="30" height="30"/>
+</a>
 
 </p>
 
