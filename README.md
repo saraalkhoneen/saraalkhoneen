@@ -10,14 +10,14 @@
   </a>
 </p>
 
+- 👀 I’m interested in web development.
+  
+- 🌱 I’m currently learning R and Swift.
+  
+- 💞️ I’m looking to collaborate on creative projects.
+  
+- 📫 How to reach me: sara.alkhoneen@gmail.com
 
-- 👀 I’m interested in web devolpment app
- 
-- 🌱 I’m currently learning R,Swift
- 
-- 💞️ I’m looking to collaborate on create projects
-
-- 📫 How to reach me sara.alkhoneen@gmail.com
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
