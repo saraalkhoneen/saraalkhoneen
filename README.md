@@ -50,10 +50,10 @@
   <a href="https://www.linkedin.com/in/sara-alkhoneen-%D8%B3%D8%A7%D8%B1%D8%A7-%D8%A7%D9%84%D8%AE%D9%86%D9%8A%D9%86-5a14a514a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saraalkhoneen" height="30" width="40" /></a>
  
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saraalkhoneen&show_icons=true&locale=en&layout=compact" alt="saraalkhoneen" width="250" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saraalkhoneen&show_icons=true&locale=en&layout=compact" alt="saraalkhoneen" width="300" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saraalkhoneen&show_icons=true&locale=en" alt="saraalkhoneen" width="200" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saraalkhoneen&show_icons=true&locale=en" alt="saraalkhoneen" width="400" /></p>
 
 
 
