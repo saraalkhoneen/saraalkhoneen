@@ -31,10 +31,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/saraalkhoneen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saraalkhoneen" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/sara-alkhoneen-%D8%B3%D8%A7%D8%B1%D8%A7-%D8%A7%D9%84%D8%AE%D9%86%D9%8A%D9%86-5a14a514a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saraalkhoneen" height="30" width="40" /></a>
-  <a href="mailto:sara.alkhoneen@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="saraalkhoneen" height="30" width="40" /></a>
+  <a href="https://twitter.com/saraalkhoneen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saraalkhoneen" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sara-alkhoneen-%D8%B3%D8%A7%D8%B1%D8%A7-%D8%A7%D9%84%D8%AE%D9%86%D9%8A%D9%86-5a14a514a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saraalkhoneen" height="30" width="40" /></a>
+  <a href="mailto:sara.alkhoneen@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="saraalkhoneen" height="30" width="40" /></a>
 </p>
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saraalkhoneen&show_icons=true&locale=en" alt="saraalkhoneen" /></p>
